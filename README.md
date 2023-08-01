@@ -30,6 +30,11 @@ Here are some of my notable projects:
    - Repo Link: [GitHub Repository](https://github.com/RyanGamingYT/ICEPOS)
    - Screenshots: [Link](https://github.com/RyanGamingYT/ICEPOS/blob/master/README.md#screenshots)
 
+3. **WeatherForcast**
+   - Description: A weather forecast application using [WeatherAPI](https://weatherapi.com)'s API. Takes **City** as input or **Country** names for weather forecast of capital cities.
+   - Repo Link: [GitHub Repository](https://github.com/RyanGamingYT/WeatherForcast)
+   - Screenshots: [Link](https://github.com/RyanGamingYT/ICEPOS/blob/master/screenshots.jpeg)
+     
 ## Connect with Me
 
 - #### Discord:
