@@ -32,8 +32,8 @@ Here are some of my notable projects:
 
 3. **WeatherForcast**
    - Description: A weather forecast application using [WeatherAPI](https://weatherapi.com)'s API. Takes **City** as input or **Country** names for weather forecast of capital cities.
-   - Repo Link: [GitHub Repository](https://github.com/RyanGamingYT/WeatherForcast)
-   - Screenshots: [Link](https://github.com/RyanGamingYT/ICEPOS/blob/master/screenshots.jpeg)
+   - Repo Link: [GitHub Repository](https://github.com/RyanGamingYT/WeatherForecast)
+   - Screenshots: [Link](https://github.com/RyanGamingYT/WeatherForecast/blob/master/screenshots.JPG)
      
 ## Connect with Me
 
