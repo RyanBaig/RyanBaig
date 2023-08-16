@@ -13,7 +13,7 @@ I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant
 - **Frameworks**: Django, Flask
 - **Database**: SQLite
 - **Version Control**: Git
-- **Tools**: PyCharm, Codeium
+- **Tools**: PyCharm (Previously), VS Code, Codeium
 
 ## Projects
 
