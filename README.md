@@ -19,16 +19,22 @@ I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant
 
 Here are some of my noteworthy projects:
 
-1. **Imgur Uploader**
-   - Description: A Flask-based web application for uploading files to Imgur using its API and fetching the corresponding URL.
-   - Replit Project: [ImgurUploader](https://replit.com/@RyanBaig/ImgurUploader)
-   - Live Demo: [Click Here](https://imguruploader.ryanbaig.repl.co)
+<details>
+<summary align="left"><strong>1. ImgurUploader</strong></summary>
+   <ul>
+      <li>Description: A Flask-based web application for uploading files to Imgur using its API and fetching the corresponding URL.</li>
+      <li>Replit Project: <a href="https://replit.com/@RyanBaig/ImgurUploader">ImgurUploader</a></li>
+      <li>Live Demo: <a href="https://imguruploader.ryanbaig.repl.co">Click Here</a></li>
+   </ul>
+</details>
 
-2. **ICE POS**
-   - Description: A Point of Sale (POS) software tailored for my father's courier business.
-   - Repository Link: [GitHub Repository](https://github.com/RyanGamingYT/ICEPOS)
-   - Screenshots: [Link](https://github.com/RyanGamingYT/ICEPOS/blob/master/README.md#screenshots)
-
+<details>
+<summary align="left"><strong>2. ICE POS</strong></summary>
+    <ul>
+         <li>Description: A Point of Sale (POS) software tailored for my father's courier business.</li>
+         <li>Repository Link: [GitHub Repository](https://github.com/RyanGamingYT/ICEPOS)</li>
+         <li>Screenshots: [Link](https://github.com/RyanGamingYT/ICEPOS/blob/master/README.md#screenshots)</li>
+</details>
 3. **WeatherForecast**
    - Description: A weather forecast application utilizing the [WeatherAPI](https://weatherapi.com) API. Provides weather forecasts for capital cities by inputting either a **City** or **Country** name.
    - Repository Link: [GitHub Repository](https://github.com/RyanGamingYT/WeatherForecast)
