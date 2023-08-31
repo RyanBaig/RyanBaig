@@ -40,16 +40,26 @@ Here are some of my noteworthy projects:
    </ul>
 </details>
 
+
 <details>
-<summary align="left"><strong>2. ICE POS</strong></summary>
+<summary align="left"><strong>2. BadgeGenerator (Work In Progress)</strong></summary>
     <ul>
-         <li>Description: A Point of Sale (POS) software tailored for my father's courier business.</li>
+         <li>Description: An Easy-to-use generator/customizer for information/custon badges for your <a href="badgegenerator.ryanbaig.repl.co/profile-badges">Profile</a>, <a href="https://badgegenerator.ryanbaig.repl.co/generate/custom">Custom</a>, or GitHub/any platform including <a href="https://crates.io">crates.io</a>, <a href="https://npmjs.com">NPM</a> and <a href="https://pypi.org">PyPi</a> and many more coming soon! Badges are generated from <a href="https://badgers.space">badgers.space</a> & <a href="https://shields.io">shields.io</a>. Fun Fact: My <strong>BIGGEST</strong> web project YET!</li>
+         <li>Replit Project Link: <a href=https://replit.com/@RyanBaig/BadgeGenerator>Link</a></li>
+         <li>Live Demo: <a href=https://badgegenerator.ryanbaig.repl.co>Link</a></li>
+     </ul>
+</details>
+
+<details>
+<summary align="left"><strong>3. ICE POS</strong></summary>
+    <ul>
+         <li>Description: A Point of Sale (POS) software tailored for my father's courier business. Fun Fact: My <strong>BIGGEST</strong> Python project YET!</li>
          <li>Repository Link: <a href=https://github.com/RyanGamingYT/ICEPOS>Github Repository</a></li>
          <li>Screenshots: <a href=https://github.com/RyanGamingYT/ICEPOS/blob/master/README.md#screenshots>Link</a></li>
      </ul>
 </details>
 <details>
-<summary align="left"><strong>3. WeatherForecast</strong></summary>
+<summary align="left"><strong>4. WeatherForecast</strong></summary>
    <ul>
    <li>Description: A weather forecast application utilizing the <a href=weatherapi.com>WeatherAPI.com's</a> API. Provides weather forecasts for capital cities by inputting either a <strong>City</strong> or <strong>Country</strong> name.</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/WeatherForecast>Github Repository</a></li>
@@ -58,7 +68,7 @@ Here are some of my noteworthy projects:
    
 </details>
 <details>
-<summary align="left"><strong>4. Auto-Organizer</strong></summary>
+<summary align="left"><strong>5. Auto-Organizer</strong></summary>
    <ul>
    <li>Description: Swiftly organizes any directory in mere seconds!</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/Auto-Organizer>Github Repository</a></li>
@@ -68,7 +78,7 @@ Here are some of my noteworthy projects:
 </details>
 
 <details>
-<summary align="left"><strong>5. Password Manager</strong></summary>
+<summary align="left"><strong>6. Password Manager</strong></summary>
    <ul>
    <li>Description: A secure Password Manager.</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/Password-Manager>Github Repository</a></li>
@@ -78,7 +88,7 @@ Here are some of my noteworthy projects:
 </details>
 
 <details>
-<summary align="left"><strong>6. Clock</strong></summary>
+<summary align="left"><strong>7. Clock</strong></summary>
    <ul>
    <li>Description: A comprehensive Clock Application featuring functionalities like alarms, stopwatch, and timer.</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/Clock>Github Repository</a></li>
@@ -89,7 +99,7 @@ Here are some of my noteworthy projects:
 </details>
 
 <details>
-<summary align="left"><strong>7. Rock Paper Scissors</strong></summary>
+<summary align="left"><strong>8. Rock Paper Scissors</strong></summary>
    <ul>
    <li>Description:A simple yet engaging Rock-Paper-Scissors game with an AI opponent.</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/Rock-Paper-Scissors>Github Repository</a></li>
@@ -100,7 +110,7 @@ Here are some of my noteworthy projects:
 </details>
 
 <details>
-<summary align="left"><strong>8. Discordia Discord Bot</strong></summary>
+<summary align="left"><strong>9. Discordia Discord Bot</strong></summary>
    <ul>
    <li>Description: A simple Discord bot I made for a Discord server named <a href=https://rg5373429.wixsite.com/discordia>Discordia.</a></li>
    <li>Replit Link: <a href=https://replit.com/@RyanBaig/Discordia-Bot#index.js>Replit Project</a></li>
@@ -115,48 +125,6 @@ Here are some of my noteworthy projects:
    </ul>
 </details>
 
-<details>
-<summary><strong><h2>🔗 Badges</strong></h2></summary>
-<div>
-    <h4>AI Chatbots</h4>
-    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge">
-    <h4>Browser</h4>
-    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome Badge">
-    <h4>Cloud</h4>
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Badge">
-    <h4>Designer Tools</h4>
-    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator Badge">
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop Badge">
-    <h4>Developer Forums</h4>
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge">
-    <h4>Documentation Platforms</h4>
-    <img src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia Badge">
-    <h4>Gaming</h4>
-    <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games Badge">
-    <h4>Hosting</h4>
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge">
-    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit Badge">
-    <h4>Music Apps</h4>
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music Badge">
-    <h4>Office</h4>
-    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badge">
-    <h4>Operating System</h4>
-    <img src="https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 7 Badge">
-    <h4>Search Engines</h4>
-    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge">
-    <h4>Smartphone Brands/OS</h4>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge">
-    <img src="https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung Badge">
-    <h4>Smartphone Store </h4>
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store Badge">
-    <h4>Streaming Service(s)</h4>
-    <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Badge">
-    <img src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white" alt="YouTube Gaming Badge">
-</div>
-</details>
     
 ## Connect with Me
 
