@@ -127,14 +127,7 @@ Here are some of my noteworthy projects:
 
     
 ## Connect with Me
+Everything you need to know about me is in my 
 
-- Discord:
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888381914015219713)
-- Linktree:
 
 [![Linktee](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryanbaig)
-
-- Personal Website:
-
-[![AI Toolbox](https://img.shields.io/badge/%F0%9F%8C%90%20AI%20Toolbox-gray?style=for-the-badge)](https://ai-toolbox.zapier.app/home)
