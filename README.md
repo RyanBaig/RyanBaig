@@ -1,33 +1,45 @@
+
 # Hi there 👋, I'm Ryan!
 
-## 👤 About Me
+<h2 align="center" id="-about-me">👤 About Me</h2>
+<p>I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant for writing clean code and crafting impactful applications. My journey into the programming world began with my curiosity for problem-solving, and it has since blossomed into a full-fledged career.</p>
+<ul>
+<li>💻 I’m currently engrossed in web development projects utilizing Python frameworks such as Django and Flask.</li>
+<li>📚🐍 I&#39;m committed to a continuous learning journey, exploring new technologies and deepening my Python expertise.</li>
+</ul>
+<h2 align="center">💼 Skills</h2>
+<ul>
+<li><strong>💬 Languages</strong>:</li>
+</ul>
+<p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"></p>
+<ul>
+<li><strong>🖽 Frameworks</strong>:</li>
+</ul>
+<p><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="ExpressJS"></p>
+<ul>
+<li><strong>🗃️ Database</strong>:</li>
+</ul>
+<p><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"></p>
+<ul>
+<li><strong>:octocat: Version Control</strong>:</li>
+</ul>
+<p><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"></p>
+<ul>
+<li><strong>:hammer_and_wrench: Tools:</strong></li>
+</ul>
+<p><a href="https://replit.com/@RyanBaig"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&amp;logo=Replit&amp;logoColor=white" alt="Replit"></a> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white&quote;" alt="VS Code"></p>
 
-I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant for writing clean code and crafting impactful applications. My journey into the programming world began with my curiosity for problem-solving, and it has since blossomed into a full-fledged career.
 
-- 💻 I’m currently engrossed in web development projects utilizing Python frameworks such as Django and Flask.
-- 📚🐍 I'm committed to a continuous learning journey, exploring new technologies and deepening my Python expertise.
-
-## 💼 Skills
-
-- **💬 Languages**:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- **🖽 Frameworks**:
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- **🗃️ Database**:
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- **:octocat: Version Control**:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- **:hammer_and_wrench: Tools:**
-
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")
+<h2 align="center">⚡ STATS ⚡</h2>
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=RyanBaig&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanBaig&theme=github_dark&show_icons=true&bg_color=0111111"> 
+<img src="https://raw.githubusercontent.com/RyanBaig/RyanBaig/snek.svg">
+</p>
 
 
-## 📂 Projects
+<h2 align="center">📂 Projects</h2>
 
 Here are some of my noteworthy projects:
 
@@ -126,8 +138,9 @@ Here are some of my noteworthy projects:
 </details>
 
     
-## Connect with Me
+<h2 align="center"> Connect with Me</h2>
 Everything you need to know about me is in my 
 
 
-[![Linktee](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryanbaig)
+<p><a href="https://linktr.ee/ryanbaig"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Linktee"></a></p>
+
