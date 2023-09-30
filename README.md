@@ -36,6 +36,7 @@
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanBaig&theme=github_dark&show_icons=true&bg_color=0111111"> 
 <img src="https://raw.githubusercontent.com/RyanBaig/RyanBaig/snek.svg">
+<img src="https://github.com/RyanBaig/RyanBaig/raw/main/snek.svg">
 </p>
 
 
