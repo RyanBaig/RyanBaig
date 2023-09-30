@@ -74,7 +74,7 @@ Here are some of my noteworthy projects:
 <details>
 <summary align="left"><strong>4. WeatherForecast</strong></summary>
    <ul>
-   <li>Description: A weather forecast application utilizing the <a href=weatherapi.com>WeatherAPI.com's</a> API. Provides weather forecasts for capital cities by inputting either a <strong>City</strong> or <strong>Country</strong> name.</li>
+   <li>Description: A weather forecast application utilizing the <a href=https://weatherapi.com>WeatherAPI.com's</a> API. Provides weather forecasts for capital cities by inputting either a <strong>City</strong> or <strong>Country</strong> name.</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/WeatherForecast>Github Repository</a></li>
    <li>Screenshots: <a href=https://github.com/RyanGamingYT/WeatherForecast/blob/master/screenshots.JPG>Link</a</li>
    </ul>
@@ -103,7 +103,7 @@ Here are some of my noteworthy projects:
 <details>
 <summary align="left"><strong>7. Clock</strong></summary>
    <ul>
-   <li>Description: A comprehensive Clock Application featuring functionalities like alarms, stopwatch, and timer.</li>
+   <li>Description: A comprehensive Clock Application featuring functionalities like alarms, stopwatche, and timer.</li>
    <li>Repository Link: <a href=https://github.com/RyanGamingYT/Clock>Github Repository</a></li>
    <li>Screenshots: <a href=https://github.com/RyanGamingYT/Clock#screenshots>Link</a></li>
    <li>Executable: <a href=https://github.com/RyanGamingYT/Clock/blob/main/dist/clock.exe>Link</a</li>
