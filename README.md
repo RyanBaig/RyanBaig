@@ -1,13 +1,13 @@
 
-# Hi there 👋, I'm Ryan!
+<h1 align="center">Hi There, I am Ryan!</h1>
 
-<h2 align="center" id="-about-me">👤 About Me</h2>
+<h2 align="center">👤 ABOUT ME</h2>
 <p>I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant for writing clean code and crafting impactful applications. My journey into the programming world began with my curiosity for problem-solving, and it has since blossomed into a full-fledged career.</p>
 <ul>
 <li>💻 I’m currently engrossed in web development projects utilizing Python frameworks such as Django and Flask.</li>
 <li>📚🐍 I&#39;m committed to a continuous learning journey, exploring new technologies and deepening my Python expertise.</li>
 </ul>
-<h2 align="center">💼 Skills</h2>
+<h2 align="center">💼 SKILLS</h2>
 <ul>
 <li><strong>💬 Languages</strong>:</li>
 </ul>
@@ -143,5 +143,5 @@ Here are some of my noteworthy projects:
 Everything you need to know about me is in my 
 
 
-<p><a href="https://linktr.ee/ryanbaig"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Linktee"></a></p>
+<p><a href="https://ryanthedev.vercel.app/links"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Linktee"></a></p>
 
