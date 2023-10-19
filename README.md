@@ -82,7 +82,7 @@ Here are some of my noteworthy projects:
     <ul>
          <li>Description: Terminal Tools is a versatile Python project designed to empower developers and users with a collection of command-line utilities. From file management to database handling and web scraping, this toolbox simplifies everyday tasks, enhancing productivity and efficiency in the world of backend development. Explore the diverse modules within Terminal</li>
          <li>GitHub Repository: <a href=https://github.com/RyanBaig/TerminalTools>Link</a></li>
-         <li>Documentation: <a href=terminaltools-docs.ryanbaig.vercel.app>Link</a></li>
+         <li>Documentation: <a href=https://terminaltools-docs.ryanbaig.vercel.app>Link</a></li>
      </ul>
 </details>
 
@@ -131,7 +131,7 @@ Here are some of my noteworthy projects:
    <ul>
    <li>Description:A simple yet engaging Rock-Paper-Scissors game with an AI opponent.</li>
    <li>Repository Link: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors>Github Repository</a></li>
-   <li>Screenshots: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors#screenshots></a></li>
+   <li>Screenshots: <a href="https://github.com/RyanBaig/Rock-Paper-Scissors#screenshots">Link</a></li>
    <li>Executable: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors/blob/main/dist/Rock%20Paper%20Scissors.exe>Link</a</li>
    </ul>
    
