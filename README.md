@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi There, I am Ryan!</h1>
 
 <h2 align="center">👤 ABOUT ME</h2>
@@ -52,21 +51,20 @@
 Here are some of my noteworthy projects:
 
 <details>
-<summary align="left"><strong>1. ImgurUploader</strong></summary>
-   <ul>
-      <li>Description: A Flask-based web application for uploading files to Imgur using its API and fetching the corresponding URL.</li>
-      <li>Replit Project: <a href="https://replit.com/@RyanBaig/ImgurUploader">ImgurUploader</a></li>
-      <li>Live Demo: <a href="https://imguruploader.ryanbaig.repl.co">Click Here</a></li>
-   </ul>
+<summary align="left"><strong>1. ryanthedev</strong></summary>
+    <ul>
+         <li>Description: My own personal website which consists of APIs, My Linktree, Portfolio/Profile, etc</li>
+         <li>GitHub Repository: <a href=https://github.com/RyanBaig/ryanthedev>Link</a></li>
+         <li>Live Demo: <a href=https://ryanthedev.vercel.app>Link</a></li>
+     </ul>
 </details>
-
 
 <details>
 <summary align="left"><strong>2. BadgeGenerator (Work In Progress)</strong></summary>
     <ul>
-         <li>Description: An Easy-to-use generator/customizer for information/custon badges for your <a href="badgegenerator.ryanbaig.repl.co/profile-badges">Profile</a>, <a href="https://badgegenerator.ryanbaig.repl.co/generate/custom">Custom</a>, or GitHub/any platform including <a href="https://crates.io">crates.io</a>, <a href="https://npmjs.com">NPM</a> and <a href="https://pypi.org">PyPi</a> and many more coming soon! Badges are generated from <a href="https://badgers.space">badgers.space</a> & <a href="https://shields.io">shields.io</a>. Fun Fact: My <strong>BIGGEST</strong> web project YET!</li>
-         <li>Replit Project Link: <a href=https://replit.com/@RyanBaig/BadgeGenerator>Link</a></li>
-         <li>Live Demo: <a href=https://badgegenerator.ryanbaig.repl.co>Link</a></li>
+         <li>Description: An Easy-to-use generator/customizer for information/custon badges for your <a href="badge-generator.ryanbaig.vercel.app/profile_badges">Profile</a>, <a href="https://badge-generator.ryanbaig.vercel.app/generate/custom">Custom</a>, or GitHub/any platform including <a href="https://crates.io">crates.io</a>, <a href="https://npmjs.com">NPM</a> and <a href="https://pypi.org">PyPi</a> and many more coming soon! Badges are generated from <a href="https://badgers.space">badgers.space</a> & <a href="https://shields.io">shields.io</a>. Fun Fact: My <strong>BIGGEST</strong> web project YET!</li>
+         <li>GitHub Repository: <a href=https://github.com/RyanBaig/BadgeGenerator>Link</a></li>
+         <li>Live Demo: <a href=https://badge-generator.ryanbaig.vercel.app>Link</a></li>
      </ul>
 </details>
 
@@ -74,63 +72,73 @@ Here are some of my noteworthy projects:
 <summary align="left"><strong>3. ICE POS</strong></summary>
     <ul>
          <li>Description: A Point of Sale (POS) software tailored for my father's courier business. Fun Fact: My <strong>BIGGEST</strong> Python project YET!</li>
-         <li>Repository Link: <a href=https://github.com/RyanGamingYT/ICEPOS>Github Repository</a></li>
-         <li>Screenshots: <a href=https://github.com/RyanGamingYT/ICEPOS/blob/master/README.md#screenshots>Link</a></li>
+         <li>Repository Link: <a href=https://github.com/RyanBaig/ICEPOS>Github Repository</a></li>
+         <li>Screenshots: <a href=https://github.com/RyanBaig/ICEPOS/blob/master/README.md#screenshots>Link</a></li>
      </ul>
 </details>
+
 <details>
-<summary align="left"><strong>4. WeatherForecast</strong></summary>
+<summary align="left"><strong>4. TerminalTools</strong></summary>
+    <ul>
+         <li>Description: Terminal Tools is a versatile Python project designed to empower developers and users with a collection of command-line utilities. From file management to database handling and web scraping, this toolbox simplifies everyday tasks, enhancing productivity and efficiency in the world of backend development. Explore the diverse modules within Terminal</li>
+         <li>GitHub Repository: <a href=https://github.com/RyanBaig/TerminalTools>Link</a></li>
+         <li>Documentation: <a href=terminaltools-docs.ryanbaig.vercel.app>Link</a></li>
+     </ul>
+</details>
+
+<details>
+<summary align="left"><strong>5. WeatherForecast</strong></summary>
    <ul>
    <li>Description: A weather forecast application utilizing the <a href=https://weatherapi.com>WeatherAPI.com's</a> API. Provides weather forecasts for capital cities by inputting either a <strong>City</strong> or <strong>Country</strong> name.</li>
-   <li>Repository Link: <a href=https://github.com/RyanGamingYT/WeatherForecast>Github Repository</a></li>
-   <li>Screenshots: <a href=https://github.com/RyanGamingYT/WeatherForecast/blob/master/screenshots.JPG>Link</a</li>
+   <li>Repository Link: <a href=https://github.com/RyanBaig/WeatherForecast>Github Repository</a></li>
+   <li>Screenshots: <a href=https://github.com/RyanBaig/WeatherForecast/blob/master/screenshots.JPG>Link</a</li>
    </ul>
    
 </details>
 <details>
-<summary align="left"><strong>5. Auto-Organizer</strong></summary>
+<summary align="left"><strong>6. Auto-Organizer</strong></summary>
    <ul>
    <li>Description: Swiftly organizes any directory in mere seconds!</li>
-   <li>Repository Link: <a href=https://github.com/RyanGamingYT/Auto-Organizer>Github Repository</a></li>
-   <li>Executable: <a href=https://github.com/RyanGamingYT/Auto-Organizer/blob/main/dist/EXE/EXE/main.exe>Link</a</li>
+   <li>Repository Link: <a href=https://github.com/RyanBaig/Auto-Organizer>Github Repository</a></li>
+   <li>Executable: <a href=https://github.com/RyanBaig/Auto-Organizer/blob/main/dist/EXE/EXE/main.exe>Link</a</li>
    </ul>
    
 </details>
 
 <details>
-<summary align="left"><strong>6. Password Manager</strong></summary>
+<summary align="left"><strong>7. Password Manager</strong></summary>
    <ul>
    <li>Description: A secure Password Manager.</li>
-   <li>Repository Link: <a href=https://github.com/RyanGamingYT/Password-Manager>Github Repository</a></li>
-   <li>Executable: <a href=https://github.com/RyanGamingYT/Password-Manager/blob/main/dist/main.exe>Link</a</li>
+   <li>Repository Link: <a href=https://github.com/RyanBaig/Password-Manager>Github Repository</a></li>
+   <li>Executable: <a href=https://github.com/RyanBaig/Password-Manager/blob/main/dist/main.exe>Link</a</li>
    </ul>
    
 </details>
 
 <details>
-<summary align="left"><strong>7. Clock</strong></summary>
+<summary align="left"><strong>8. Clock</strong></summary>
    <ul>
-   <li>Description: A comprehensive Clock Application featuring functionalities like alarms, stopwatche, and timer.</li>
-   <li>Repository Link: <a href=https://github.com/RyanGamingYT/Clock>Github Repository</a></li>
-   <li>Screenshots: <a href=https://github.com/RyanGamingYT/Clock#screenshots>Link</a></li>
-   <li>Executable: <a href=https://github.com/RyanGamingYT/Clock/blob/main/dist/clock.exe>Link</a</li>
+   <li>Description: A comprehensive Clock Application featuring functionalities like alarms, a stopwatch, and a timer.</li>
+   <li>Repository Link: <a href=https://github.com/RyanBaig/Clock>Github Repository</a></li>
+   <li>Screenshots: <a href=https://github.com/RyanBaig/Clock#screenshots>Link</a></li>
+   <li>Executable: <a href=https://github.com/RyanBaig/Clock/blob/main/dist/clock.exe>Link</a</li>
    </ul>
    
 </details>
 
 <details>
-<summary align="left"><strong>8. Rock Paper Scissors</strong></summary>
+<summary align="left"><strong>9. Rock Paper Scissors</strong></summary>
    <ul>
    <li>Description:A simple yet engaging Rock-Paper-Scissors game with an AI opponent.</li>
-   <li>Repository Link: <a href=https://github.com/RyanGamingYT/Rock-Paper-Scissors>Github Repository</a></li>
-   <li>Screenshots: <a href=https://github.com/RyanGamingYT/Rock-Paper-Scissors#screenshots></a></li>
-   <li>Executable: <a href=https://github.com/RyanGamingYT/Rock-Paper-Scissors/blob/main/dist/Rock%20Paper%20Scissors.exe>Link</a</li>
+   <li>Repository Link: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors>Github Repository</a></li>
+   <li>Screenshots: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors#screenshots></a></li>
+   <li>Executable: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors/blob/main/dist/Rock%20Paper%20Scissors.exe>Link</a</li>
    </ul>
    
 </details>
 
 <details>
-<summary align="left"><strong>9. Discordia Discord Bot</strong></summary>
+<summary align="left"><strong>10. Discordia Discord Bot</strong></summary>
    <ul>
    <li>Description: A simple Discord bot I made for a Discord server named <a href=https://rg5373429.wixsite.com/discordia>Discordia.</a></li>
    <li>Replit Link: <a href=https://replit.com/@RyanBaig/Discordia-Bot#index.js>Replit Project</a></li>
