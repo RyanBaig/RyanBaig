@@ -29,6 +29,13 @@
 </ul>
 <p><a href="https://replit.com/@RyanBaig"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&amp;logo=Replit&amp;logoColor=white" alt="Replit"></a> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white&quote;" alt="VS Code"></p>
 
+<h2 align="center"> Connect with Me</h2>
+<p align="center">Everything you need to know about me is in my 
+
+
+<p align="center"><a href="https://ryanthedev.vercel.app/links"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Linktee"></a></p>
+</p>
+
 
 <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center">
@@ -138,10 +145,5 @@ Here are some of my noteworthy projects:
    </ul>
 </details>
 
-    
-<h2 align="center"> Connect with Me</h2>
-Everything you need to know about me is in my 
-
-
-<p><a href="https://ryanthedev.vercel.app/links"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Linktee"></a></p>
+<p align="center">Many More of my Repositories are pinned below:</p>
 
