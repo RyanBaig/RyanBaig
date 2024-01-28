@@ -1,68 +1,40 @@
-<h1 align="center">Hi There, I am Ryan!</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There%2C+I'm+Ryan!)
 
+## 👤 About Me
 
+Passionate Python and web programmer based in Lahore, Pakistan. I specialize in crafting clean code and developing impactful web applications. Currently focused on backend development using Python frameworks like Django. Committed to continuous learning and exploring new technologies to deepen my expertise.
 
-<h2 align="center">👤 ABOUT ME</h2>
-<p>I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant for writing clean code and crafting
-   impactful applications. My journey into the programming world began with my curiosity for problem-solving, and it has
-   since blossomed into a full-fledged career.</p>
-<ul>
-   <li>💻 I’m currently engrossed in web development projects utilizing Python frameworks such as Django and Flask.</li>
-   <li>📚🐍 I'm committed to a continuous learning journey, exploring new technologies and deepening my Python
-      expertise.</li>
-</ul>
-<h2 align="center">💼 SKILLS</h2>
-<ul>
-   <li><strong>💬 Languages</strong>:</li>
-</ul>
-<p>
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="HTML">
-   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-   <img
-      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-      alt="JavaScript">
-   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"
-      alt="Markdown">
-   <img src="https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-</p>
-<ul>
-   <li><strong>🖽 Frameworks</strong>:</li>
-</ul>
-<p>
-   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
-      alt="Django">
-   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-      alt="ExpressJS">
-</p>
-<ul>
-   <li><strong>🗃️ Database</strong>:</li>
-</ul>
-<p><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="SQLite"></p>
-<ul>
-   <li><strong><img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/octocat.png"> Version
-         Control</strong>:</li>
-</ul>
-<p><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></p>
-<ul>
-   <li><strong>🛠️ Tools:</strong></li>
-</ul>
-<p>
-   <img
-      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&quote;"
-      alt="VS Code">
-</p>
+## 💼 Skills
 
-<h2 align="center"> Connect with Me</h2>
-<p align="center">Everything you need to know about me is in my
+#### 💬 Languages:
 
-<p align="center"><a href="https://ryanthedev.vercel.app/links"><img
-         src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
-         alt="Linktee"></a></p>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🖽 Frameworks:
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+#### 🗃️ Database:
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🛠️ Tools:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"e;)
+
+## 🌐 Connect With Me
+
+   All My Socials, Links, Profiles etc can be found on my [Links Page](https://ryanthedev.vercel.app/links).
+
 <details>
    <summary style="text-align: center; font-size: 25px">⚡ STATS ⚡</summary>
    <p align="center">
@@ -75,21 +47,22 @@
       <img src="./assets/snek.svg">
    </p>
 </details>
-<h2 align="center">📂 Projects</h2>
+
+## 📂 Projects
 
 Here are some of my noteworthy projects:
 
 <details>
    <summary align="left"><strong>1. ryanthedev</strong></summary>
    <ul>
-      <li>Description: My own personal website which consists of APIs, My Linktree, Portfolio/Profile, etc</li>
+      <li>Description: My own personal website which consists of My Links, Portfolio, etc</li>
       <li>GitHub Repository: <a href=https://github.com/RyanBaig/ryanthedev>Link</a></li>
       <li>Live Demo: <a href=https://ryanthedev.vercel.app>Link</a></li>
    </ul>
 </details>
 
 <details>
-   <summary align="left"><strong>2. BadgeGenerator (Work In Progress)</strong></summary>
+   <summary align="left"><strong>2. BadgeGenerator</strong></summary>
    <ul>
       <li>Description: An Easy-to-use generator/customizer for information/custon badges for your <a
             href="badge-generator.ryanbaig.vercel.app/profile_badges">Profile</a>, <a
@@ -135,7 +108,7 @@ Here are some of my noteworthy projects:
          <strong>Country</strong> name.
       </li>
       <li>Repository Link: <a href=https://github.com/RyanBaig/WeatherForecast>Github Repository</a></li>
-      <li>Screenshots: <a href=https://github.com/RyanBaig/WeatherForecast/blob/master/screenshots.JPG>Link</a< /li>
+      <li>Screenshots: <a href=https://github.com/RyanBaig/WeatherForecast/blob/master/screenshots.JPG>Link</a> </li>
    </ul>
 
 </details>
@@ -144,31 +117,30 @@ Here are some of my noteworthy projects:
    <ul>
       <li>Description: Swiftly organizes any directory in mere seconds!</li>
       <li>Repository Link: <a href=https://github.com/RyanBaig/Auto-Organizer>Github Repository</a></li>
-      <li>Executable: <a href=https://github.com/RyanBaig/Auto-Organizer/blob/main/dist/EXE/EXE/main.exe>Link</a< /li>
+      <li>Executable: <a href=https://github.com/RyanBaig/Auto-Organizer/blob/main/dist/EXE/EXE/main.exe>Link</a> </li>
    </ul>
 
 </details>
 
 <details>
-   <summary align="left"><strong>7. Password Manager</strong></summary>
+   <summary align="left"><strong>7. Medium Parser Extension (Chromium)</strong></summary>
    <ul>
-      <li>Description: A secure Password Manager.</li>
-      <li>Repository Link: <a href=https://github.com/RyanBaig/Password-Manager>Github Repository</a></li>
-      <li>Executable: <a href=https://github.com/RyanBaig/Password-Manager/blob/main/dist/main.exe>Link</a< /li>
+      <li>Description: A Chromium and Manifest V3-based Extension to remove Paywalls when reading <a
+            href="https://medium.com">Medium</a> articles.</li>
+      <li>GitHub Repository: <a href=https://github.com/RyanBaig/Medium-Parser-Extension>Link</a></li>
    </ul>
-
 </details>
 
 <details>
-   <summary align="left"><strong>8. Clock</strong></summary>
+   <summary align="left"><strong>8. EnvHub</strong></summary>
    <ul>
-      <li>Description: A comprehensive Clock Application featuring functionalities like alarms, a stopwatch, and a
-         timer.</li>
-      <li>Repository Link: <a href=https://github.com/RyanBaig/Clock>Github Repository</a></li>
-      <li>Screenshots: <a href=https://github.com/RyanBaig/Clock#screenshots>Link</a></li>
-      <li>Executable: <a href=https://github.com/RyanBaig/Clock/blob/main/dist/clock.exe>Link</a< /li>
+      <li>Description:
+         EnvHub simplifies environment variable management for developers. It provides a user-friendly interface and a
+         developer-friendly API, focusing on backend development. By securely storing variables with Appwrite's
+         database, EnvHub ensures the protection of sensitive information, including secrets, passwords, and keys.</li>
+      <li>Demo: <a href="https://envhub.ryanbaig.vercel.app">Link</a></li>
+      <li>GitHub Repository: <a href="https://github.com/RyanBaig/EnvHub">Link</a></li>
    </ul>
-
 </details>
 
 <details>
@@ -178,8 +150,8 @@ Here are some of my noteworthy projects:
       <li>Repository Link: <a href=https://github.com/RyanBaig/Rock-Paper-Scissors>Github Repository</a></li>
       <li>Screenshots: <a href="https://github.com/RyanBaig/Rock-Paper-Scissors#screenshots">Link</a></li>
       <li>Executable: <a
-            href=https://github.com/RyanBaig/Rock-Paper-Scissors/blob/main/dist/Rock%20Paper%20Scissors.exe>Link</a<
-               /li>
+            href=https://github.com/RyanBaig/Rock-Paper-Scissors/blob/main/dist/Rock%20Paper%20Scissors.exe>Link</a>
+      </li>
    </ul>
 
 </details>
@@ -199,9 +171,8 @@ Here are some of my noteworthy projects:
 <details>
    <summary align="left"><strong>And Many More!</strong></summary>
    <ul>
-      <li>Visit My <a href=codepen.io/Ryan-Baig>CodePen, </a><a href=replit.com/@RyanBaig>Replit </a>or <a
-            href=https://github.com/RyanGamingYT?tab=repositories>My Repositories. </a></li>
+      <li>Visit My <a href=https://github.com/RyanBaig?tab=repositories>GitHub Repositories</a> for more!</li>
    </ul>
 </details>
 
-<p align="center">Many More of my Repositories are pinned below:</p>
+Many More of my Repositories are Pinned Below.
