@@ -79,10 +79,6 @@
       <img src="./assets/github-habits.svg">
       <img src="./assets/iso_calender.svg">
       <img src="./assets/achievements.svg">
-
-
-
-      <hr>
       <img src="./assets/snek.svg">
    </p>
 </details>
