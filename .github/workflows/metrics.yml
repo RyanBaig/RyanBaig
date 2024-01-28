@@ -61,7 +61,7 @@ jobs:
       - name: plugin_isocalendar
         uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/isocalendar.svg
+          filename: assets/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ryanbaig
           base: metadata
@@ -74,7 +74,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: assets/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ryanbaig
@@ -90,7 +90,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: header.svg
+          filename: assets/header.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
@@ -106,7 +106,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: lines-of-code.svg
+          filename: assets/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
@@ -117,7 +117,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: acti_comm.svg
+          filename: assets/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
@@ -134,7 +134,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: iso_calender.svg
+          filename: assets/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
@@ -153,7 +153,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-habits.svg
+          filename: assets/github-habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
@@ -171,7 +171,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/issue_pr_lang.svg
+          filename: assets/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
@@ -191,7 +191,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/repositories.svg
+          filename: assets/repositories.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
