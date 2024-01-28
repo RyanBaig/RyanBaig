@@ -1,13 +1,6 @@
 <h1 align="center">Hi There, I am Ryan!</h1>
 
-<table>
-   <tr>
-      <th>Python<img src="assets/python.svg" alt="Python"></th>
-      <th>JavaScript<img src="./assets/javascript.svg" alt="JavaScript"></th>
-      <th>NodeJS<img src="./assets/nodejs.svg"></th>
-      <th>TypeScript<img src="./assets/typescript.svg"></th>
-   </tr>
-</table>
+
 
 <h2 align="center">👤 ABOUT ME</h2>
 <p>I am Ryan, a passionate Python and web programmer from Pakistan, with a penchant for writing clean code and crafting
