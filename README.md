@@ -77,16 +77,6 @@ Here are some of my noteworthy projects:
    </ul>
 </details>
 
-<details>
-   <summary align="left"><strong>3. ICE POS</strong></summary>
-   <ul>
-      <li>Description: A Point of Sale (POS) software tailored for my father's courier business. Fun Fact: My
-         <strong>BIGGEST</strong> Python project YET!
-      </li>
-      <li>Repository Link: <a href=https://github.com/RyanBaig/ICEPOS>Github Repository</a></li>
-      <li>Screenshots: <a href=https://github.com/RyanBaig/ICEPOS/blob/master/README.md#screenshots>Link</a></li>
-   </ul>
-</details>
 
 <details>
    <summary align="left"><strong>4. TerminalTools</strong></summary>
